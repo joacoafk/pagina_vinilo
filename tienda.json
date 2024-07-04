@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "tipo": "vinilo",
+    "artista": "almendra",
+    "nombre": "almendra",
+    "desc": "180 Gramos, lanzado en 2015 por Sony, es un álbum de Rock Argentino con 9 canciones",
+    "precio": 33989.00,
+    "audio_test": "sonidos/almendra.mp3",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_837047-MLU70718521925_072023-F.webp"
+  },
+  {
+    "id": 2,
+    "tipo": "vinilo",
+    "artista": "fito paez",
+    "nombre": "el amor despues del amor",
+    "desc": "lanzado por Warner en 2019, incluye 14 canciones del género Rock",
+    "precio": 33999.00,
+    "audio_test": "sonidos/fito.mp3",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_679526-MLA40185765298_122019-F.webp"
+  },
+  {
+    "id": 3,
+    "tipo": "tocadiscos",
+    "artista": "",
+    "nombre": "Pioneer Stereo Turntable Pl-512",
+    "desc": "Con mecanismo de transmisión por correa, garantiza una reproducción suave y HQ. Cuenta con velocidades de reproducción de 45 y 33 RPM, permitiéndote disfrutar de tus discos con calidad HiFi. Sus salidas de audio RCA permiten conectarla fácilmente a altavoces o sistemas de sonido",
+    "precio": 95626.00,
+    "audio_test": "",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_631980-MLA73830275386_012024-F.webp"
+  },
+  {
+    "id": 4,
+    "tipo": "vinilo",
+    "artista": "Charly Garcia",
+    "nombre": "Clics Modernos",
+    "desc": "Edición especial remasterizada con 12 canciones icónicas del Rock Nacional Argentino",
+    "precio": 29999.00,
+    "audio_test": "sonidos/charly.mp3",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-Dxgty7cdTSw%2FXyQI-abB-GI%2FAAAAAAAAOT8%2F5HjJKDAeNa8TiHwaxdodGCi_YlvrjjXcwCLcBGAsYHQ%2Fs1600%2FClics%252BModernos%252B-%252BPortada.jpg&f=1&nofb=1&ipt=d12081fa499810964e3494eda4b701b0b4e1dc5c65c0e7359b77b8ac3038e699&ipo=images"
+  },
+  {
+    "id": 5,
+    "tipo": "vinilo",
+    "artista": "Soda Stereo",
+    "nombre": "Signos",
+    "desc": "Vinilo de colección con 10 canciones emblemáticas de la banda de Rock en Español",
+    "precio": 28999.00,
+    "audio_test": "sonidos/soda.mp3",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff.fcdn.app%2Fimgs%2Fb4418d%2Fwww.palaciodelamusica.com.uy%2Fpmusuy%2Fd348%2Foriginal%2Fcatalogo%2FA540030570-A540030570_1%2F1920-1200%2Fsoda-stereo-signos-vinilo-soda-stereo-signos-vinilo.jpg&f=1&nofb=1&ipt=adb3bfcde72a2fe47c492f6bc3c2cb884cec1eb257926db04326e8367e6f1b62&ipo=images"
+  },
+  {
+    "id": 6,
+    "tipo": "equipo de sonido",
+    "artista": "Sony",
+    "nombre": "Sistema de Audio HiFi MHC-V13",
+    "desc": "Potente sistema de audio con luces integradas, Bluetooth y USB. Perfecto para fiestas y eventos con calidad de sonido excepcional.",
+    "precio": 44999.00,
+    "audio_test": "",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSnIubCwvYNg%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=7d5b0fc0cf4f0286affe344f71366c1b4dfa08ab7b321adafc6ea19d59f0134f&ipo=images"
+  },
+  {
+    "id": 7,
+    "tipo": "vinilo",
+    "artista": "Luis Alberto Spinetta",
+    "nombre": "Kamikaze",
+    "desc": "Edición limitada en vinilo de 180 gramos. Contiene 11 canciones del legendario músico argentino.",
+    "precio": 34999.00,
+    "audio_test": "sonidos/spinetta.mp3",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmerchbar.imgix.net%2Fproduct%2F4%2F1616%2F31517225%2F889853090518.jpg%3Fquality%3D60%26auto%3Dcompress%2Cformat%26w%3D3840&f=1&nofb=1&ipt=2b73b7508a26e2746c8622c51eb1c130f9b6b29c32cfdc35178d914f461ff44c&ipo=images"
+  },
+  {
+    "id": 8,
+    "tipo": "vinilo",
+    "artista": "Gustavo Cerati",
+    "nombre": "Bocanada",
+    "desc": "Vinilo doble remasterizado con el álbum solista de Gustavo Cerati lanzado en 1999. Incluye 15 canciones.",
+    "precio": 39999.00,
+    "audio_test": "sonidos/cerati.mp3",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71ErxleEvYL._SL1500_.jpg&f=1&nofb=1&ipt=9992440365a3f79871a211a3133758fc19c97deb1e241efa1b809f918346efc6&ipo=images"
+  },
+  {
+    "id": 9,
+    "tipo": "accesorio",
+    "artista": "",
+    "nombre": "Kit de Limpieza para Vinilos",
+    "desc": "Incluye cepillo antiestático, líquido limpiador y paños de microfibra para mantener tus vinilos en óptimas condiciones.",
+    "precio": 2999.00,
+    "audio_test": "",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_889083-MLM45047265164_032021-F.jpg&f=1&nofb=1&ipt=2efe9052e5b252dd2a87e5e76356d2cc78a30a3b663dbbfcd3eb55cbb6147b3f&ipo=images"
+  },
+  {
+    "id": 10,
+    "tipo": "vinilo",
+    "artista": "Varios Artistas",
+    "nombre": "Canciones del Ayer",
+    "desc": "Colección de vinilos con éxitos de los años 50 a 90. Incluye 20 discos con los mayores éxitos de la música internacional.",
+    "precio": 49999.00,
+    "audio_test": "sonidos/va.mp3",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.grupoelcorteingles.es%2FSGFM%2Fdctm%2FMEDIA03%2F201803%2F26%2F00106512841351____1__640x640.jpg&f=1&nofb=1&ipt=74819d8ea13c6af3379f4ca09bd012d5a137780e929d8c26eb35625f29185f2b&ipo=images"
+  }
+]
